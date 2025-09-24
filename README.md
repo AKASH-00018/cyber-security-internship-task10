@@ -46,3 +46,24 @@ The `password_checker.py` script helps to illustrate the following concepts:
 The tool will prompt you to enter a password and will then provide an analysis of its strength.
 
 ---
+
+# Screenshots
+
+<img width="1918" height="1078" alt="Screenshot 2025-09-24 084154" src="https://github.com/user-attachments/assets/25b09a84-7531-461e-b9aa-61c86c2429cc" />
+
+---
+
+<img width="874" height="292" alt="Screenshot 2025-09-24 084310" src="https://github.com/user-attachments/assets/2e4d1e66-94b5-4e84-bcc4-7b277649df4a" />
+
+---
+
+<img width="842" height="207" alt="Screenshot 2025-09-24 084356" src="https://github.com/user-attachments/assets/30d90859-610f-43ac-95b9-7aa3e5e6511a" />
+
+---
+
+<img width="930" height="243" alt="Screenshot 2025-09-24 084416" src="https://github.com/user-attachments/assets/facc0a44-f665-409b-80bd-fc85c840f037" />
+
+
+
+
+
